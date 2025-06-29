@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <titleAdam Andrews</title>
+        <title></title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="./styles/main.css">
@@ -13,12 +13,12 @@
         <div id="container--main">
 
             <section id="wrapper--hero" class="section--page">
-                <img id="profile-pic" src="./assets/images/profile_pic.png">
+                <img id="profile-pic" src="./assests/images/Screenshot.jpg">
 
                 <div>
                     <h1 id="user-name">Adam Andrews</h1>
-                    <p id="bio">Player protection analyst
-                    <p id="email">aaia712@hotmail.co.uk</p>
+                    <p id="bio">Player protection analyst at The Rank Group
+                    <p id="email">✉️ aaia712@hotmail.co.uk</p>
                 </div>  
             </section>
 
@@ -28,7 +28,9 @@
                 <div id="socials--list">
 
                     <h2>Additional links and projects<h2>
-                    <a href="https://deutschkiin.artstation.com/" target="_blank">Artstation</a>
+                   ➡️ <a href="https://deutschkiin.artstation.com/" target="_blank">Artstation</a>
+                   ➡️ <a href="https://uk.linkedin.com/in/adam-andrews-182647154" target="_blank">LinkedIn</a>
+                   ➡️ <a href="https://github.com/AdamA712" target="_blank">github</a>
 
                 </div>
             </section>
@@ -37,7 +39,7 @@
                 <h2>Skills & Qualifications</h2>
                 <ul id="qualifications--list">
                     <li> 3+ Years experience in AML, transaction monitoring and regulatory compliance, proficient in using AML software (in house software NEON) and conducting investigations</li>
-                    <li>ICA Specialist Certificate in Money Laundering Risk in Betting and Gaming obtained on April 26, 2023.</li>
+                    <li>ICA Specialist Certificate in Money Laundering Risk in Betting and Gaming obtained on April 26, 2023 (level 2).</li>
                     <li>Techinical: SAR reporting, Data Analysis, Transaction monitorting, Fraud dection, regulatory complaiance, risk assemsent., </li>
                     <li>Soft: Analytical skills, attention to detial, communication, problem-solving, teamwork and ability to self work and work under pressure.</li>
                 </ul>
@@ -47,7 +49,7 @@
                 <h2>Tech stack</h2>
 
                 <div id="wrapper--techstack__items">
-                    <div class="card--techstack"><span>Python, JavaScript, HTML</span></div>
+                  Languages: <div class="card--techstack"><span>Python, JavaScript, HTML</span></div>
                 </div>
             </section>
 
@@ -106,33 +108,9 @@ Streamlined safer gambling conversations for the London region, creating a templ
                 <div class="line-break"></div>
 
 
-                    <ul>
-        </div>
-            </section>
- <section class="section--page">
-                <h2>Education/Qualifications</h2>
-                <div class="card--project">
-                    <a ICA Specialist Certificate in Money Laundering Risk in Betting and Gaming April 2023</a>
-                </div>
-
-                <div class="card--project">
-                    <a BA (Hons) Video Game Design – Sheffield Hallam University – (2014-2017)</a>
-                </div>
-
-                <div class="card--project">
-                    <a Rotherham College of Arts and Technology – (2012-2013) HNC Qualification Video Game Design</a>
-                </div>
-
-                <div class="card--project">
-                    <a Sheffield Springs Academy 6th Form – (2010-2012) OCR BTEC ICT Level 3 qualification, Alan Literacy L2, Alan Numeracy L2,</a>
-                </div>
-
-       
-        </div>
-        <div id="theme-switcher">
-            <div class="theme" id="theme-light" data-theme="light"></div>
-            <div class="theme" id="theme-dark" data-theme="dark"></div>
-        </div>
-    </body>
-    <script src="js/theme-switcher.js"></script>
-</html>
+                <h2>Qualifications/education</h2>
+                <ul id="qualifications--list">
+                    <li>ICA Specialist Certificate in Money Laundering Risk in Betting and Gaming April 2023</li>
+                    <li>BA (Hons) Video Game Design Sheffield Hallam University (2014-2017).</li>
+                    <li>Rotherham College of Arts and Technology (2012-2013) HNC Qualification Video Game Design</li>
+                    <li>Sheffield Springs Academy 6th Form (2010-2012) OCR BTEC ICT Level 3 qualification, Alan Literacy L2, Alan Numeracy L2</li>
